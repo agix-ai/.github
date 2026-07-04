@@ -129,7 +129,75 @@ dance as a recurring motion idea.
 - *Emergence over command. Stewardship over control. Ownership over rental.*
 - *Scale your AI organically.* (existing — now fully load-bearing)
 
-## 8. How to use this document
+## 8. The hive is the unit (hierarchy)
+
+The hive is the atomic **and** highest unit of the Agix operating system: **one
+hive = one project or contained enterprise.** Agix does not sell loose agents; it
+stands up hives. The full nesting:
+
+- **Cell** (one hexagon) — an atomic unit of work or memory.
+- **Comb / frame** — a subsystem, a domain, a memory store.
+- **The Hive** — a project or contained enterprise; the unit of the Agix OS.
+- **The Apiary** — many hives under one keeper: the portfolio / ecosystem.
+- **The Beekeeper** — the human, standing *outside* the colony, interfacing with a hive.
+
+## 9. The castes (working taxonomy, biologically honest)
+
+Roles map to real apiary biology on purpose — precision here is what separates a
+brand that *knows bees* from one that merely likes them.
+
+**An honest correction we make deliberately:** biological **drones do not work.**
+They are males whose sole role is reproduction; they don't forage, build, or
+defend, and are expelled before winter. In tech, "drone" wrongly connotes "worker
+robot" — the opposite of the biology. We either use "drone" in its true sense
+(seasonal, outward, gene-carrying) or avoid it for laborers. The labor is done by
+**workers**, and — via **age polyethism** — the same worker changes jobs over its
+life as the colony needs. **Role is emergent and temporal, not assigned.** That is
+a core architectural principle, not decoration.
+
+| Caste | Real biology | Agent archetype |
+|---|---|---|
+| **Nurse** | Feeds larvae, tends brood | Scaffolds/onboards nascent tasks & agents; holds context for young work |
+| **Builder (wax)** | Secretes wax, builds comb | Infra / tooling / memory agents — build the structures others use |
+| **Storer / receiver** | Takes raw nectar, ripens it into honey | Synthesis / ETL: raw foraging → structured knowledge |
+| **Forager** | Collects nectar, pollen, water | Outward work: research, data-gathering, external calls |
+| **Scout** | Explores, finds sources & nest sites, recruits via dance | Planning / search; propose & evaluate options |
+| **Guard** | Checks entrants, defends the entrance | Security / governance / authorization (the "sting") |
+| **Fanner** | Holds the brood nest ~35°C with no thermostat | Homeostasis / monitoring — keep the system in healthy bounds |
+| **Undertaker / cleaner** | Hygiene; removes the dead (disease resistance) | Maintenance: cleanup, GC, stale-artifact removal |
+| **Queen** | *Not a boss* — pheromone that keeps the colony coherent | The north-star / identity signal, never a commander |
+| **Drone** *(use with care)* | Seasonal, single-purpose, carries genes to other hives | If used: agents that propagate the colony outward (influence, partnerships) — not laborers |
+
+## 10. Coordination without a manager (the intellectual spine)
+
+The colony coordinates with **no central controller**. Three real, citable
+mechanisms — each maps to an agentic technique and each is a blog:
+
+- **Stigmergy** (Grassé) — coordination *through the environment*: bees modify the
+  comb, others respond to the modification; the comb itself carries the
+  information. → shared-memory / coordination-through-artifacts architecture. This
+  justifies "the comb is both memory and coordination substrate."
+- **Response thresholds** (Gordon) — no dispatcher sets the forager/nurse ratio;
+  each bee acts on local stimulus + its own threshold. → decentralized task
+  allocation with no scheduler.
+- **Honeybee democracy / quorum sensing** (Thomas Seeley) — a swarm chooses a new
+  home via scouts exploring, dancing options, and deciding at quorum. →
+  decentralized multi-agent consensus, found in nature.
+
+These are the substance behind "emergence over command" — not slogans, mechanisms.
+
+## 11. Blog homage series — "Field Notes from the Hive"
+
+Each post pays homage to a natural mechanism that inspired an agentic technique:
+
+1. *The comb remembers* — stigmergy → shared-memory coordination
+2. *Nobody's in charge* — response thresholds → task allocation without a scheduler
+3. *Honeybee democracy* — quorum sensing → multi-agent consensus (Seeley homage)
+4. *A bee is not born a forager* — age polyethism → emergent, temporal agent roles
+5. *35 degrees, no thermostat* — thermoregulation → self-healing homeostasis
+6. *The dance* — the waggle dance → how agents encode & recruit value
+
+## 12. How to use this document
 
 When writing blogs, landing copy, agent instructions, or internal docs for Agix:
 
