@@ -197,7 +197,56 @@ Each post pays homage to a natural mechanism that inspired an agentic technique:
 5. *35 degrees, no thermostat* — thermoregulation → self-healing homeostasis
 6. *The dance* — the waggle dance → how agents encode & recruit value
 
-## 12. How to use this document
+## 12. Inter-hive communication & the trust boundary (the drone)
+
+Hives in the Agix AOS ecosystem must talk to one another. The metaphor supplies
+the mechanism *and* its security model — and the biology backs it:
+
+- **Drones cross hive boundaries by design.** Real drones leave their colony to
+  mate with queens from *other* colonies; they are the one caste built to travel
+  between hives. So **drone = the agent that carries messages/DNA between hives.**
+- **Guards inspect at the entrance.** The guard caste checks every entrant. So the
+  pairing is: **drone (outbound cross-hive messenger) + guard (inbound
+  authorization & inspection) = the inter-hive trust boundary.**
+- **Security is not optional here.** Cross-hive traffic is the ecosystem's attack
+  surface. Drone/guard implementations must be authenticated, authorized, and
+  auditable — the sting exists to defend what is yours.
+
+## 13. The queen's pheromone: leadership as a durable signal
+
+The queen does not command. She emits a pheromone that keeps the colony coherent.
+This is the model for leadership in Agix and in any enduring enterprise:
+
+> A great enterprise — Nvidia, Apple, Google — is not held together by orders down
+> a chain. It is aligned by a **persistent coherence signal** (mission, culture,
+> north star) that everyone senses and that endures across time. Leadership as
+> *pheromone*, not command.
+
+Implication for Agix architecture: a lightweight **identity/alignment beacon** —
+the hive's north star, constantly broadcast, sensed by every agent — is a
+legitimate component, not just a metaphor. It is how a well-built hive stays a
+robust, sustained enterprise across seasons.
+
+## 14. Open research questions (benchmark-worthy)
+
+These are recorded as genuine open questions for Agix AOS — to be answered with
+evidence, not assertion. NOTE: the AOS architecture lives outside this repo
+(`agix-ai/.github` is the org front door + brand memory); grounding these
+requires reading the AOS source directly.
+
+- **Fixed vs. temporal caste — what builds a better hive for our OSS needs?**
+  Hypothesis (founder's instinct): temporal/age-polyethism caste. Trade-off:
+  temporal buys resilience & load-balancing (agents flow to where the hive hurts)
+  at the cost of specialization depth and predictability; fixed buys sharp,
+  legible specialists at the cost of adaptability. *Proposed benchmark:* run both
+  on an identical workload; measure throughput, tail latency under load spikes,
+  recovery after a caste is knocked out, and token cost. Winner decided by data.
+- **Inter-hive protocol security.** What is the minimal authenticated, auditable
+  drone/guard handshake for cross-hive messaging?
+- **The alignment beacon.** Does a broadcast north-star signal measurably improve
+  colony coherence vs. per-agent goals alone?
+
+## 15. How to use this document
 
 When writing blogs, landing copy, agent instructions, or internal docs for Agix:
 
