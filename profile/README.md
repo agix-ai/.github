@@ -1,4 +1,5 @@
-## Agix
+## <img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/527bbfea-6ec5-4d4a-9e27-083981b0a518" />
+Agix
 
 **An operating system for teams of AI agents you own and run yourself.**
 
