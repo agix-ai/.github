@@ -14,7 +14,7 @@ AI can answer your questions. What people actually strive for is to **create** �
 ### Why Agix?
 
 - **You own it.** Runs on your machine through the coding-agent CLI you already use — no API key required to start, no telemetry, nothing phones home. Your agents, your data, your knowledge never leave your control.
-- **It's governed.** The agent that does the work is never the agent that verifies it, and every action traces back to a person. A fleet you can actually trust with real work — not a black box.
+- **It's governed.** The hive works like bees do — a swarm of small foragers working a problem in parallel — but a *governed* swarm: the agent that does the work is never the agent that verifies it, and every action traces back to a person. A fleet you can actually trust with real work — not a black box.
 - **It compounds.** What the hive learns lands in the **Comb** — a knowledge graph you own. What it learns on a Tuesday it still knows in March. An old hive knows more than a new one, and it can't be copied.
 - **One conductor.** You talk to one agent; it fans the work out to the fleet and brings back what matters. One long conversation instead of nine parallel ones.
 
