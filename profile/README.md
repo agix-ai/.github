@@ -1,4 +1,5 @@
-## <img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/527bbfea-6ec5-4d4a-9e27-083981b0a518" />
+<img width="1179" height="1586" alt="image" src="https://github.com/user-attachments/assets/d0a88048-2158-47a7-95d2-ec11ea7bdf1e" />
+
 Agix
 
 **An operating system for teams of AI agents you own and run yourself.**
