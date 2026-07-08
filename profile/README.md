@@ -1,8 +1,5 @@
 <img width="1997" height="814" alt="image" src="https://github.com/user-attachments/assets/d2d22f5d-f238-468f-b5f4-8b3e5248761f" />
 
-
-Agix
-
 **An operating system for teams of AI agents you own and run yourself.**
 
 Most AI tools rent you a single assistant. Agix installs a **governed, legible fleet** of agents on infrastructure *you* control — so you can ship like a team of twenty and own your whole stack.
